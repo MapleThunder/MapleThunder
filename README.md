@@ -1,4 +1,6 @@
-# I'm Niko Bentley
+# Ola 👋🏻
+
+I'm Niko Bentley, a web developer from Halifax, Canada 🇨🇦
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Niko_Bentley?label=Follow)](https://twitter.com/intent/follow?screen_name=Niko_Bentley)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=maplethunder.maplethunder)
