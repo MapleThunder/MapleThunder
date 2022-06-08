@@ -2,10 +2,6 @@
 
 I'm Niko Bentley, a web developer from Halifax, Canada 🇨🇦
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=maplethunder.maplethunder)
-![Twitter Follow](https://img.shields.io/twitter/follow/Niko_Bentley?label=Follow&style=social)
-![GitHub followers](https://img.shields.io/github/followers/MapleThunder?label=Follow&style=social)
-
 ## About Me
 
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently working as a Software Developer at [REDspace](https://redspace.com) \
